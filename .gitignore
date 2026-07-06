@@ -1,0 +1,25 @@
+# Build artifacts
+*.o
+*.obj
+*.d
+*.out
+*.exe
+plane_game
+
+# Libraries and generated binaries
+*.a
+*.so
+*.dylib
+*.dll
+*.app
+
+# Debug files
+*.dSYM/
+*.dwo
+*.pdb
+
+# Editor and OS files
+.DS_Store
+*~
+.vscode/
+.idea/
